@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalendrierVacances</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="register">Inscription</string>
+    <string name="already_have_account">Vous avez déjà un compte ? Connectez-vous ici</string>
+    <string name="login">Se connecter</string>
+</resources>
